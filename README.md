@@ -33,3 +33,18 @@ I opened the UCSC Genome Browser and selected the Human GRCh38/hg38 genome assem
 An exon is a region of a gene that remains in the mature RNA after splicing, while an intron is a region that is removed during RNA processing.
 
 In the PAH gene, the introns generally appear much longer than the exons because the exon boxes are relatively short and are separated by long connecting intron regions.
+
+## 4. UCSC Annotation Tracks
+
+For the gene annotation, I used the **NCBI RefSeq** track. I also displayed the **ClinVar Variants** track and the **UCSC 100 Vertebrates** conservation track.
+
+- **Gene annotation track used:** NCBI RefSeq
+- **ClinVar-related variants visible:** Yes. Many ClinVar variant marks were visible within and near the PAH gene.
+- **Were some regions more conserved than others?** Yes. The conservation signal varied across the PAH region, with some areas showing stronger conservation than others.
+- **Where were the conserved regions located?** Stronger conservation was mainly seen around several exon-associated regions, although some conservation signal was also present outside the exons.
+
+Strong conservation suggests that a DNA region has remained similar across different species over evolutionary time. This can indicate that the sequence has an important biological function because major changes in important regions may be less likely to be tolerated.
+
+### Screenshot 3 - ClinVar and Conservation Tracks
+
+![PAH UCSC Tracks](images/03_tracks.png)
