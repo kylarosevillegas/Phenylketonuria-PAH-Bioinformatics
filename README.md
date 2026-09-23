@@ -104,3 +104,10 @@ Genomic location alone cannot fully determine how strongly a variant affects gen
 ### 4. What was the most interesting feature you observed about your assigned gene?
 
 The most interesting feature I observed was the large number of clinically reported variants within the PAH gene. I also found it interesting that the selected c.1222C>T variant could be located directly within a coding exon using UCSC and connected to the p.Arg408Trp protein change reported in ClinVar.
+
+## 8. References and Links
+
+- UCSC Genome Browser: https://genome.ucsc.edu/
+- NCBI ClinVar: https://www.ncbi.nlm.nih.gov/clinvar/
+- PAH ClinVar Variant Record: https://www.ncbi.nlm.nih.gov/clinvar/variation/577/
+- NCBI Gene - PAH: https://www.ncbi.nlm.nih.gov/gene/5053
