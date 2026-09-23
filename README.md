@@ -86,3 +86,21 @@ Although ClinVar classifies this variant as pathogenic, additional evidence such
 ### Screenshot 5 - Selected Variant in UCSC
 
 ![PAH R408W Variant in UCSC](images/05_variant_in_ucsc.png)
+
+## 7. Reflection
+
+### 1. What did UCSC show you about your gene that was not obvious from simply reading about the gene's function?
+
+UCSC showed me the actual genomic organization of the PAH gene, including its exons, introns, transcript isoforms, and position on chromosome 12. It also showed how different genomic annotation tracks can be viewed together with the gene structure.
+
+### 2. Why is knowing the exact genomic location of a disease-associated variant useful?
+
+Knowing the exact genomic location makes it possible to determine where the variant occurs within a gene. It can help identify whether the variant is located in an exon, intron, UTR, splice region, or another genomic region and helps connect ClinVar information with the genome browser.
+
+### 3. What is one limitation of predicting a variant's effect only from its genomic location?
+
+Genomic location alone cannot fully determine how strongly a variant affects gene or protein function. Additional evidence such as functional experiments, clinical observations, segregation data, and other genetic studies is needed to understand its biological and clinical effects.
+
+### 4. What was the most interesting feature you observed about your assigned gene?
+
+The most interesting feature I observed was the large number of clinically reported variants within the PAH gene. I also found it interesting that the selected c.1222C>T variant could be located directly within a coding exon using UCSC and connected to the p.Arg408Trp protein change reported in ClinVar.
