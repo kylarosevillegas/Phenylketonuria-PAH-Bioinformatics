@@ -34,6 +34,10 @@ An exon is a region of a gene that remains in the mature RNA after splicing, whi
 
 In the PAH gene, the introns generally appear much longer than the exons because the exon boxes are relatively short and are separated by long connecting intron regions.
 
+### Screenshot 2 - PAH Gene Structure
+
+![PAH Gene Structure](images/02_gene_structure.png)
+
 ## 4. UCSC Annotation Tracks
 
 For the gene annotation, I used the **NCBI RefSeq** track. I also displayed the **ClinVar Variants** track and the **UCSC 100 Vertebrates** conservation track.
