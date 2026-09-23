@@ -66,3 +66,23 @@ Strong conservation suggests that a DNA region has remained similar across diffe
 ### Screenshot 4 - Selected ClinVar Variant
 
 ![ClinVar PAH Variant](images/04_clinvar_variant.png)
+
+## 6. Locating the Variant in UCSC
+
+I returned to the UCSC Genome Browser using the GRCh38/hg38 assembly and searched the genomic coordinate chr12:102,840,493 obtained from ClinVar. I zoomed in on the region and compared the ClinVar variant track with the NCBI RefSeq PAH gene model.
+
+- **Selected variant:** NM_000277.3(PAH):c.1222C>T (p.Arg408Trp)
+- **Genomic position:** chr12:102,840,493 (GRCh38)
+- **Location relative to PAH:** The variant is located within the PAH gene.
+- **Gene region:** Exon 12
+- **Coding or non-coding:** Coding region
+- **Variant consequence:** Missense variant
+- **Protein change:** p.Arg408Trp (R408W)
+
+The c.1222C>T variant changes the codon so that arginine at amino acid position 408 is replaced by tryptophan. Because the variant is located in a coding exon, this change can alter the amino acid sequence and potentially affect PAH protein structure and function.
+
+Although ClinVar classifies this variant as pathogenic, additional evidence such as functional studies, patient genotype-phenotype data, segregation analysis, and other clinical evidence is useful when evaluating how a variant contributes to disease.
+
+### Screenshot 5 - Selected Variant in UCSC
+
+![PAH R408W Variant in UCSC](images/05_variant_in_ucsc.png)
