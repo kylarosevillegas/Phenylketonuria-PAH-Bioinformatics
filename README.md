@@ -48,3 +48,21 @@ Strong conservation suggests that a DNA region has remained similar across diffe
 ### Screenshot 3 - ClinVar and Conservation Tracks
 
 ![PAH UCSC Tracks](images/03_tracks.png)
+
+## 5. Selected ClinVar Variant
+
+- **Gene:** PAH
+- **Variant/HGVS:** NM_000277.3(PAH):c.1222C>T (p.Arg408Trp)
+- **ClinVar Variation ID:** 577
+- **VCV accession:** VCV000000577.151
+- **rsID:** rs5030858
+- **Chromosome and genomic position (GRCh38):** chr12:102,840,493
+- **Cytogenetic location:** 12q23.2
+- **Associated condition:** Phenylketonuria
+- **Clinical significance:** Pathogenic
+- **Review status:** Reviewed by expert panel
+- **ClinVar URL:** https://www.ncbi.nlm.nih.gov/clinvar/variation/577/
+
+### Screenshot 4 - Selected ClinVar Variant
+
+![ClinVar PAH Variant](images/04_clinvar_variant.png)
