@@ -23,3 +23,13 @@ I opened the UCSC Genome Browser and selected the Human GRCh38/hg38 genome assem
 ### Screenshot 1 - PAH Gene Location
 
 ![PAH Gene Location](images/01_gene_location.png)
+
+## 3. Exons, Introns, and Transcripts
+
+- **Selected transcript:** NM_000277.3
+- **Number of exons:** 13
+- **Multiple transcripts/isoforms visible:** Yes
+
+An exon is a region of a gene that remains in the mature RNA after splicing, while an intron is a region that is removed during RNA processing.
+
+In the PAH gene, the introns generally appear much longer than the exons because the exon boxes are relatively short and are separated by long connecting intron regions.
