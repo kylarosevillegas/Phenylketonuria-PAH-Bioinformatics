@@ -196,3 +196,39 @@ These genes were listed by the UCSC Cell Browser as positive marker genes for th
 **Marker gene:** HAL
 
 HAL is expressed across several hepatocyte clusters, but its expression is more limited than PAH. In the PAH map, approximately 76.8% of cells have detectable PAH expression, compared with approximately 48.1% of cells with detectable HAL expression. This comparison shows that a disease-associated gene and a cluster marker can both be expressed in multiple cell types while having different levels of distribution across the dataset.
+
+## 9. Connection to Genome Browser and ClinVar
+
+**Gene:** PAH
+
+**Chromosome:** Chromosome 12
+
+**Disease-associated variant from previous activity:** NM_000277.3(PAH):c.1222C>T (p.Arg408Trp), also known as R408W.
+
+The PAH gene is located on chromosome 12. In the previous UCSC Genome Browser and ClinVar activity, the selected PAH variant was NM_000277.3(PAH):c.1222C>T (p.Arg408Trp), which is associated with Phenylketonuria (PKU).
+
+In the UCSC Cell Browser, PAH expression was detected in the hepatocyte dataset, including Periportal Hepatocytes and other hepatocyte clusters. This expression pattern makes biological sense because the liver is relevant to PAH function and phenylalanine metabolism.
+
+The Cell Browser dataset shows where PAH is expressed, but it cannot prove that PAH expression causes Phenylketonuria or that a particular variant causes the disease. Disease causation requires additional genetic, clinical, and functional evidence.
+
+## 10. Reflection
+
+### 1. What did the UCSC Cell Browser show you that the UCSC Genome Browser could not?
+
+The UCSC Cell Browser showed where PAH is expressed among different liver cell types. The UCSC Genome Browser mainly showed the gene's genomic location, structure, and sequence-level information.
+
+### 2. Why can the same gene have different expression levels among different cell types?
+
+Different cell types have different functions and therefore activate different genes at different levels. PAH expression can vary among hepatocyte subtypes because these cells have different biological roles and gene-expression profiles.
+
+### 3. Why should you be careful when interpreting a gene that shows zero or very low expression in single-cell data?
+
+Zero or very low expression does not necessarily mean that the gene is completely absent from the cell. It can be affected by the limitations of single-cell measurements and the number of transcripts detected.
+
+### 4. Why is it useful to combine information about genomic location, genetic variants, and cell-specific gene expression?
+
+Combining these types of information gives a more complete view of a disease-associated gene. Genomic location identifies where the gene is found, genetic variants provide information about sequence changes, and cell-specific expression shows where the gene is active.
+
+### 5. What was the most interesting observation you made about your assigned gene?
+
+The most interesting observation was that PAH was detected across multiple hepatocyte cell types in the Human Liver Cell Atlas. The Periportal Hepatocyte cluster also showed PAH expression in 81% of the cells, with an average expression of 5.38.
