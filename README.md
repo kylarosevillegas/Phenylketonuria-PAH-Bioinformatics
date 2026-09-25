@@ -115,3 +115,14 @@ The most interesting feature I observed was the large number of clinically repor
 - NCBI ClinVar: https://www.ncbi.nlm.nih.gov/clinvar/
 - PAH ClinVar Variant Record: https://www.ncbi.nlm.nih.gov/clinvar/variation/577/
 - NCBI Gene - PAH: https://www.ncbi.nlm.nih.gov/gene/5053
+
+---
+
+# UCSC Cell Browser Activity
+
+## 1. Assigned Gene and Disease
+
+**Assigned Gene:** PAH  
+**Associated Disease:** Phenylketonuria (PKU)
+
+## 2. Organ/Tissue Choice and Dataset Information
