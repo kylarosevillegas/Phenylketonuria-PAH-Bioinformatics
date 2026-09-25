@@ -189,3 +189,10 @@ Three marker genes identified for this cluster:
 | CPS1 | 2.0 | Positive |
 
 These genes were listed by the UCSC Cell Browser as positive marker genes for the Periportal Hepatocyte cluster.
+
+## 8. Disease Gene vs. Marker Gene
+
+**Disease gene:** PAH  
+**Marker gene:** HAL
+
+HAL is expressed across several hepatocyte clusters, but its expression is more limited than PAH. In the PAH map, approximately 76.8% of cells have detectable PAH expression, compared with approximately 48.1% of cells with detectable HAL expression. This comparison shows that a disease-associated gene and a cluster marker can both be expressed in multiple cell types while having different levels of distribution across the dataset.
