@@ -126,3 +126,13 @@ The most interesting feature I observed was the large number of clinically repor
 **Associated Disease:** Phenylketonuria (PKU)
 
 ## 2. Organ/Tissue Choice and Dataset Information
+
+**Dataset:** Human Liver Cell Atlas – Hepatocyte Cells
+
+**Organ/Tissue:** Human liver
+
+**Why selected:** The liver is relevant to Phenylketonuria (PKU) because PAH is involved in phenylalanine metabolism. The hepatocyte dataset allows PAH expression to be explored specifically in liver cells.
+
+**Dataset URL:** https://cells.ucsc.edu/?ds=human-liver-cell-atlas+hepatocyte
+
+**Publication/Study:** Speir et al. 2021
