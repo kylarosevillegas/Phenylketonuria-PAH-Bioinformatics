@@ -161,3 +161,17 @@ The most interesting feature I observed was the large number of clinically repor
 **Ensembl Gene ID:** ENSG00000171759
 
 PAH expression is detectable across the hepatocyte cells in the selected dataset. The expression is not limited to a single visible cluster, although the level of expression varies among individual cells.
+
+## 6. Expression Plot
+
+**Selected cell type:** Periportal Hepatocyte
+
+**Gene:** PAH (ENSG00000171759)
+
+**Total cells:** 86,306
+
+**PAH-expressing cells:** 69,547 (81%)
+
+**Average PAH expression:** 5.38
+
+PAH expression was detected in 81% of the Periportal Hepatocyte cells, with an average expression of 5.38. The dot plot provides a quantitative view of PAH expression and the proportion of cells expressing PAH within the selected cell type.
