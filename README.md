@@ -153,3 +153,11 @@ The most interesting feature I observed was the large number of clinically repor
 - Mito+ Hepatocyte
 - SERPINE1+ Hepatocyte
 - Cycling
+
+## 4. Assigned Gene Expression
+
+**Gene:** PAH
+
+**Ensembl Gene ID:** ENSG00000171759
+
+PAH expression is detectable across the hepatocyte cells in the selected dataset. The expression is not limited to a single visible cluster, although the level of expression varies among individual cells.
