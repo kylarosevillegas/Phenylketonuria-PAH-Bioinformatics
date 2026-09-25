@@ -136,3 +136,20 @@ The most interesting feature I observed was the large number of clinically repor
 **Dataset URL:** https://cells.ucsc.edu/?ds=human-liver-cell-atlas+hepatocyte
 
 **Publication/Study:** Speir et al. 2021
+
+## 3. Understanding the Cell Map
+
+**Visualization type:** UMAP
+
+**What the dots represent:** Each dot represents an individual cell measured in the single-cell dataset.
+
+**What the clusters represent:** The clusters represent groups of cells with similar gene-expression profiles.
+
+**Cell-type/cluster labels observed:**
+- Periportal Hepatocyte
+- Pericentral Hepatocyte
+- Ribosomal+ Hepatocyte
+- UGT+ Hepatocyte
+- Mito+ Hepatocyte
+- SERPINE1+ Hepatocyte
+- Cycling
