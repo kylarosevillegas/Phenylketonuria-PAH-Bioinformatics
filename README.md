@@ -232,3 +232,11 @@ Combining these types of information gives a more complete view of a disease-ass
 ### 5. What was the most interesting observation you made about your assigned gene?
 
 The most interesting observation was that PAH was detected across multiple hepatocyte cell types in the Human Liver Cell Atlas. The Periportal Hepatocyte cluster also showed PAH expression in 81% of the cells, with an average expression of 5.38.
+
+## 11. References and Links
+
+- UCSC Cell Browser: https://cells.ucsc.edu/
+- Human Liver Cell Atlas: https://cells.ucsc.edu/?ds=human-liver-cell-atlas
+- Speir et al. (2021), Human Liver Cell Atlas
+- NCBI ClinVar: https://www.ncbi.nlm.nih.gov/clinvar/
+- UCSC Genome Browser: https://genome.ucsc.edu/
