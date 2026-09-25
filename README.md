@@ -175,3 +175,17 @@ PAH expression is detectable across the hepatocyte cells in the selected dataset
 **Average PAH expression:** 5.38
 
 PAH expression was detected in 81% of the Periportal Hepatocyte cells, with an average expression of 5.38. The dot plot provides a quantitative view of PAH expression and the proportion of cells expressing PAH within the selected cell type.
+
+## 7. Marker Genes
+
+**Selected cluster:** Periportal Hepatocyte
+
+Three marker genes identified for this cluster:
+
+| Marker Gene | Score | Direction |
+|---|---:|---|
+| HAL | 2.0 | Positive |
+| SDS | 2.0 | Positive |
+| CPS1 | 2.0 | Positive |
+
+These genes were listed by the UCSC Cell Browser as positive marker genes for the Periportal Hepatocyte cluster.
